@@ -1,0 +1,16 @@
+#shape{
+margin:200px 30px 134px 34px;
+height:200px;
+width:200px;
+background-color:red;
+border-radius:50%;
+position:relative;
+
+}
+#time
+{
+font-weight:bold;
+}
+#head{
+text-align:center;
+}
